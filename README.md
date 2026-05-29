@@ -61,6 +61,6 @@ The platform implements strict **Clean Architecture** and **Domain-Driven Design
 
 ---
 
-📬 **Contact & Architecture Walkthroughs:** dav2bit@gmail.com | [Your LinkedIn Profile Link]
+📬 **Contact & Architecture Walkthroughs:** dav2bit@gmail.com 
 
 ```
